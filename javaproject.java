@@ -9,6 +9,6 @@ public class javaproject{
        System.out.println(20);
       }
      
-    int response = count > 10 ? 100 : 10;
+    
 }
 }
