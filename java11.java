@@ -1,7 +1,7 @@
 package javaproject;
 
 public class java11 {
-	static void main (String args[]){
+	public static void main (String args[]){
 		int sum = 0;
 		String sum1 = " ";
 		for(int i =0; i<args.length; i++)
